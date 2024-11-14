@@ -73,5 +73,4 @@ thomas.youngman@reuben.ox.ac.uk
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=t-youngman&show_icons=true&hide=contribs&count_private=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-youngman&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
