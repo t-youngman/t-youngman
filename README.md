@@ -13,6 +13,23 @@ I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) 
 
 ---
 
+### 💼 Professional Experience
+
+- **INET, University of Oxford**  
+  *Doctoral Researcher in macroeconomics and climate policy*
+
+- **University of the West of England**  
+  *Associate Lecturer in Economics*
+
+- **Defra, UK Government**  
+  *Head of Net Zero Economics*, among other roles
+  Represented the UK in working groups at the **OECD**, **EU**, and **WTO**.
+
+- **Prudential, Ecooo, Triodos Bank**  
+  *Previous roles in sustainable finance, policy, and economics*
+
+---
+
 ### 📜 Selected Publications
 
 #### **"Can diet change meet climate targets?"**
@@ -30,23 +47,6 @@ I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) 
 #### **"Housing is not a crime: Madrid’s post-crisis squatters’ movement tell our story through activist research"**
 - *Radical Housing Journal*, May 2021
 - Authors: Tom Youngman, Laura Barrio
-
----
-
-### 💼 Professional Experience
-
-- **INET, University of Oxford**  
-  *Doctoral Researcher in macroeconomics and climate policy*
-
-  - **University of the West of England**  
-  *Associate Lecturer in Economics*
-
-- **Defra, UK Government**  
-  *Head of Net Zero Economics*, among other roles
-  Represented the UK in working groups at the **OECD**, **EU**, and **WTO**.
-
-- **Prudential, Ecooo, Triodos Bank**  
-  *Previous roles in sustainable finance, policy, and economics*
 
 ---
 
