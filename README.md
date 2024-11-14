@@ -52,8 +52,8 @@ I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) 
 
 ### 🔧 Skills & Tools
 
+- **Economic Modeling**: Stock-Flow Consistent, Partial Equilibrium and finding my feet with Agent-Based Models
 - **Programming**: Python, R
-- **Economic Modeling**: Stock-Flow Consistent, Partial Equilibrium and findings my feet with Agent-Based Models
 - **Communication**: Policy Briefing, Ministerial Reports, Public Speaking
 - **Research**: Academic Writing, Qualitative & Quantitative Research
 
