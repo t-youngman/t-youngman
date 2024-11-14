@@ -59,9 +59,9 @@ I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) 
 
 ---
 
-### 🌍 Connect with Me
+### 🌍 University profiles
 
-[![Oxford profile Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.yourwebsite.com)
+[![Oxford profile Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.inet.ox.ac.uk/people/tom-youngman)
 
 ---
 
@@ -72,6 +72,6 @@ thomas.youngman@reuben.ox.ac.uk
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomYoungman&show_icons=true&hide=contribs&count_private=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomYoungman&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=t-youngman&show_icons=true&hide=contribs&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-youngman&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
