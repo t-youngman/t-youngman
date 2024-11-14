@@ -61,7 +61,7 @@ I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) 
 
 ### 🌍 University profiles
 
-[![Oxford profile Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.inet.ox.ac.uk/people/tom-youngman)
+https://www.inet.ox.ac.uk/people/tom-youngman
 
 ---
 
