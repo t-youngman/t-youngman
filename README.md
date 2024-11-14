@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hello! I’m Tom Youngman
 
-<!--
-**t-youngman/t-youngman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) at the University of Oxford**. My work uses **agent-based macroeconomic models** to understand the distributional impacts of climate mitigation strategies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Research Interests
+
+- **Agent-Based Macroeconomic Modeling**
+- **Climate Mitigation Policy**
+- **Distributional Impacts of Environmental Policy**
+- **Ecological Economics**
+
+---
+
+### 📜 Selected Publications
+
+#### **"Can diet change meet climate targets?"**
+- *Annual Conference of the Agricultural Economics Society*, Apr 2022
+- Authors: Alec Jacobs, Tom Youngman
+
+#### **"Housing is still not a crime"**
+- *Book Chapter*, Jan 2022
+- Authors: Tom Youngman, Laura Barrio
+
+#### **"PAHrticipative Research: The ethical challenges of militant research in the Platform of People Affected by Mortgages (PAH)"**
+- *Urban Societies: Inequalities, Citizenship, and Well-Being*, Oct 2021
+- Authors: Laura Barrio, Gabriele D'Adda, Tom Youngman, Ezequiel Ramón, Eduard Sala, Luis Sanmartin
+
+#### **"Housing is not a crime: Madrid’s post-crisis squatters’ movement tell our story through activist research"**
+- *Radical Housing Journal*, May 2021
+- Authors: Tom Youngman, Laura Barrio
+
+---
+
+### 💼 Professional Experience
+
+- **INET, University of Oxford**  
+  *Doctoral Researcher in macroeconomics and climate policy*
+
+  - **University of the West of England**  
+  *Associate Lecturer in Economics*
+
+- **Defra, UK Government**  
+  *Head of Net Zero Economics*, among other roles
+  Represented the UK in working groups at the **OECD**, **EU**, and **WTO**.
+
+- **Prudential, Ecooo, Triodos Bank**  
+  *Previous roles in sustainable finance, policy, and economics*
+
+---
+
+### 🔧 Skills & Tools
+
+- **Programming**: Python, R
+- **Economic Modeling**: Stock-Flow Consistent, Partial Equilibrium and findings my feet with Agent-Based Models
+- **Communication**: Policy Briefing, Ministerial Reports, Public Speaking
+- **Research**: Academic Writing, Qualitative & Quantitative Research
+
+---
+
+### 🌍 Connect with Me
+
+[![Oxford profile Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.yourwebsite.com)
+
+---
+
+### 📫 Contact
+
+thomas.youngman@reuben.ox.ac.uk
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomYoungman&show_icons=true&hide=contribs&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomYoungman&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
