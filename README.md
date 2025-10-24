@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Tom Youngman
+# Tom Youngman
 
 I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) at the University of Oxford**. My work uses **agent-based macroeconomic models** to understand the distributional impacts of climate mitigation strategies.
 
@@ -19,9 +19,9 @@ I’m a doctoral researcher at the **Institute for New Economic Thinking (INET) 
   *Doctoral Researcher in macroeconomics and climate policy*
 
 - **University of the West of England**  
-  *Associate Lecturer in Economics*
+  *Research Fellow in Sustainable Food Economics; Associate Lecturer in Economics*
 
-- **Defra, UK Government**  
+- **Defra, UK Government (2018 - 2024)**  
   *Head of Net Zero Economics*, among other roles
   Represented the UK in working groups at the **OECD**, **EU**, and **WTO**.
 
@@ -67,7 +67,7 @@ https://www.inet.ox.ac.uk/people/tom-youngman
 
 ### 📫 Contact
 
-thomas.youngman@reuben.ox.ac.uk
+thomas.youngman@inet.ox.ac.uk
 
 ---
 
